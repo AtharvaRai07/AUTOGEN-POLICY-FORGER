@@ -123,7 +123,7 @@ AI-POLICY-FORGER includes a powerful email reporting feature that automatically 
 
 2. The system will automatically generate and send the report when the analysis is complete.
 
-3. Sample report: [Data Privacy Act Review](sample_docs/Data_Privacy_Act_Review.pdf)
+3. Sample report: [Data Privacy Act Review](sample_docs/Data_Privacy_Act_Review.pdf) will be recieved on your email.
 
 ## 🌐 API Integration
 
@@ -159,3 +159,4 @@ For detailed documentation, please visit [Documentation Link](https://github.com
 <div align="center">
   Made with ❤️ by Atharva
 </div>
+
