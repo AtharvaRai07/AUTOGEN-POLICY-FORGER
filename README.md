@@ -4,6 +4,9 @@ An AI-powered legislative analysis and debate simulation system that facilitates
 
 <img width="12272" height="6641" alt="image" src="https://github.com/user-attachments/assets/8c7c9eea-3a99-4222-9367-6571d05148c6" />
 
+## 📄 Documentation
+
+For detailed documentation, please visit [Documentation Link](https://github.com/AtharvaRai07/AUTOGEN-POLICY-FORGER/blob/main/DOCUMENTATION.md)
 
 ## 🚀 Features
 
@@ -150,13 +153,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For inquiries or support, please contact me at atharvarai07@gmail.com
 
-## 📄 Documentation
-
-For detailed documentation, please visit [Documentation Link](https://github.com/AtharvaRai07/AUTOGEN-POLICY-FORGER/blob/main/DOCUMENTATION.md)
-
 ---
 
 <div align="center">
   Made with ❤️ by Atharva
 </div>
+
 
