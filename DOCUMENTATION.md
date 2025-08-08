@@ -40,6 +40,7 @@ graph TD
     B --> C[Judicial Panel]
     C --> D[Amendment Generator]
     D --> E[Final Report]
+    E --> F[Email Sender]
 ```
 
 ## Core Components
