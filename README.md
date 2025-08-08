@@ -1,8 +1,9 @@
 # AI-POLICY-FORGER
 
-An AI-powered legislative analysis and debate simulation system that facilitates comprehensive policy evaluation through automated debate, judicial review, and amendment suggestions.
+An AI-powered legislative analysis and debate simulation system that facilitates comprehensive policy evaluation through automated debate, judicial review, and amendment and send you the report pdf on you email.
 
-![AI-POLICY-FORGER Banner](https://via.placeholder.com/1200x400/2d3748/ffffff?text=AI-POLICY-FORGER)
+<img width="12272" height="6641" alt="image" src="https://github.com/user-attachments/assets/8c7c9eea-3a99-4222-9367-6571d05148c6" />
+
 
 ## 🚀 Features
 
@@ -11,10 +12,7 @@ An AI-powered legislative analysis and debate simulation system that facilitates
 - **Judicial Review**: AI judges evaluate policies against legal and ethical standards
 - **Amendment Suggestions**: Get AI-powered recommendations for policy improvements
 - **Comprehensive Reporting**: Detailed debate transcripts and analysis summaries
-
-## 📄 Documentation
-
-For detailed documentation, please visit [[Documentation Link](https://github.com/AtharvaRai07/AUTOGEN-POLICY-FORGER/blob/main/DOCUMENTATION.md)]
+- **Email Delivery**: Automated PDF report generation and delivery to specified email addresses
 
 ## 🛠️ Installation
 
@@ -101,6 +99,32 @@ The system generates:
 - Amendment suggestions
 - Implementation roadmaps
 
+## ✉️ Email Reporting
+
+AI-POLICY-FORGER includes a powerful email reporting feature that automatically generates and sends comprehensive PDF reports to specified email addresses. These reports include:
+
+- Complete policy analysis
+- Debate transcripts
+- Judicial reviews and verdicts
+- Recommended amendments
+- Implementation roadmap
+
+### How to Use Email Reporting
+
+1. Configure your email settings in the `.env` file:
+   ```
+   EMAIL_HOST=smtp.gmail.com
+   EMAIL_PORT=587
+   EMAIL_HOST_USER=your-email@gmail.com
+   EMAIL_HOST_PASSWORD=your-app-specific-password
+   EMAIL_USE_TLS=True
+   RECIPIENT_EMAIL=recipient@example.com
+   ```
+
+2. The system will automatically generate and send the report when the analysis is complete.
+
+3. Sample report: [Data Privacy Act Review](sample_docs/Data_Privacy_Act_Review.pdf)
+
 ## 🌐 API Integration
 
 AI-POLICY-FORGER supports integration with:
@@ -126,10 +150,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For inquiries or support, please contact me at atharvarai07@gmail.com
 
+## 📄 Documentation
+
+For detailed documentation, please visit [Documentation Link](https://github.com/AtharvaRai07/AUTOGEN-POLICY-FORGER/blob/main/DOCUMENTATION.md)
 
 ---
 
 <div align="center">
   Made with ❤️ by Atharva
 </div>
-
